@@ -1,4 +1,4 @@
 811
 ===
 
-App that communicates with Raspberry Pi
+App that communicates with Arduino
